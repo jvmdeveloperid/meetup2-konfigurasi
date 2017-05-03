@@ -5,3 +5,5 @@ spring:
     serialization:
       indent_output: false
 
+server:
+  port: 8888
